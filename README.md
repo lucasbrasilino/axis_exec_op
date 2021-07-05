@@ -1,5 +1,7 @@
 # axis_exec_op
 
+Verilog module for executing logic operations over AXI4-Stream interface data.
+
 `axis_exec_op` is an example IP used in my blog posts. It applies logic operations over 32-bit words moved by
 AXI4-Streams interfaces.
 
